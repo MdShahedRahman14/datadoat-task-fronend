@@ -17,11 +17,11 @@ const Navbar = () => {
         <ActiveLink to="/">Home</ActiveLink>
       </li>
       <li>
-        <ActiveLink to="/instructors">Instructors</ActiveLink>
+        <ActiveLink to="/courses">Courses</ActiveLink>
       </li>
 
       <li>
-        <ActiveLink to="/classes">Classes</ActiveLink>
+        <ActiveLink to="/appliedCourses">Applied Courses</ActiveLink>
       </li>
       <Link to="/dashBoard/myClass">
 
@@ -83,12 +83,12 @@ const Navbar = () => {
             <Link className="" to="/">
               <img
                 className="w-10 rounded-md h-10 ml-3 mr-3 "
-                src="https://rb.gy/9vv2r"
+                src="https://rb.gy/28n5ol"
                 alt=""
               />
             </Link>
             <Link className="font-serif ml-6 text-2xl" to="/">
-              TheSummerCamp
+              Student Portal
             </Link>
           </div>
           <div className="navbar-center hidden lg:flex">

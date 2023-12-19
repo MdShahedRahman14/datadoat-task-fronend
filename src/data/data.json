@@ -1,0 +1,165 @@
+ [
+      {
+        "id": 1,
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming with this introductory course.",
+        "duration": "8 weeks",
+        "img": "https://rb.gy/f4zchb",
+        "applicants": []
+      },
+      {
+        "id": 2,
+        "name": "Web Development Fundamentals",
+        "description": "Explore the fundamentals of web development and design.",
+        "duration": "10 weeks",
+        "img": "https://rb.gy/exa8ut",
+        "applicants": []
+      },
+      {
+        "id": 3,
+        "name": "Data Science Essentials",
+        "description": "An overview of essential concepts in data science and analytics.",
+        "duration": "12 weeks",
+        "img": "https://rb.gy/pb3mmi",
+        "applicants": []
+      },
+      {
+        "id": 4,
+        "name": "Mobile App Development",
+        "description": "Build mobile applications for iOS and Android platforms.",
+        "duration": "10 weeks",
+        "img": "https://rb.gy/5izvsx",
+        "applicants": []
+      },
+      {
+        "id": 5,
+        "name": "Artificial Intelligence",
+        "description": "Dive into the fascinating world of artificial intelligence and machine learning.",
+        "duration": "14 weeks",
+        "img": "https://rebrand.ly/a6onye4",
+        "applicants": []
+      },
+      {
+        "id": 6,
+        "name": "Cybersecurity Basics",
+        "description": "Learn the fundamentals of cybersecurity to protect digital assets.",
+        "duration": "12 weeks",
+        "img": "https://rebrand.ly/ry66uq9",
+        "applicants": []
+      },
+      {
+        "id": 7,
+        "name": "Graphic Design Principles",
+        "description": "Master the principles of graphic design for visual communication.",
+        "duration": "8 weeks",
+        "img": "https://rebrand.ly/907619",
+        "applicants": []
+      },
+      {
+        "id": 8,
+        "name": "Game Development Workshop",
+        "description": "Create your own games with this hands-on game development workshop.",
+        "duration": "10 weeks",
+        "img": "https://rebrand.ly/mq30gl0",
+        "applicants": []
+      },
+      {
+        "id": 9,
+        "name": "Blockchain Fundamentals",
+        "description": "Explore the foundational concepts of blockchain technology and cryptocurrencies.",
+        "duration": "12 weeks",
+        "img": "https://rebrand.ly/xm3udul",
+        "applicants": []
+      },
+      {
+        "id": 10,
+        "name": "Digital Marketing Strategies",
+        "description": "Develop effective digital marketing strategies for online success.",
+        "duration": "8 weeks",
+        "img": "https://rebrand.ly/g8qsns0",
+        "applicants": []
+      },
+      {
+        "id": 11,
+        "name": "UX/UI Design Principles",
+        "description": "Understand the principles of user experience and user interface design.",
+        "duration": "10 weeks",
+        "img": "https://rebrand.ly/wklw9eg",
+        "applicants": []
+      },
+      {
+        "id": 12,
+        "name": "Cloud Computing Essentials",
+        "description": "Learn the essential concepts and services of cloud computing.",
+        "duration": "12 weeks",
+        "img": "https://rebrand.ly/f5japcs",
+        "applicants": []
+      },
+      {
+        "id": 13,
+        "name": "Python for Data Analysis",
+        "description": "Utilize Python for data analysis and visualization.",
+        "duration": "10 weeks",
+        "img": "https://rebrand.ly/glaaxts",
+        "applicants": []
+      },
+      {
+        "id": 14,
+        "name": "IoT (Internet of Things) Fundamentals",
+        "description": "Explore the fundamentals of IoT and its applications.",
+        "duration": "8 weeks",
+        "img": "https://rebrand.ly/aqceqc3",
+        "applicants": []
+      },
+      {
+        "id": 15,
+        "name": "Advanced JavaScript Programming",
+        "description": "Take your JavaScript skills to the next level with advanced programming techniques.",
+        "duration": "10 weeks",
+        "img": "https://rebrand.ly/np6pbyd",
+        "applicants": []
+      },
+      {
+        "id": 16,
+        "name": "Network Security",
+        "description": "Enhance your knowledge of network security and secure communication.",
+        "duration": "12 weeks",
+        "img": "https://rebrand.ly/wjrgxxk",
+        "applicants": []
+      },
+      {
+        "id": 17,
+        "name": "Machine Learning Applications",
+        "description": "Apply machine learning techniques to real-world problems and applications.",
+        "duration": "14 weeks",
+        "img": "https://rebrand.ly/e4op1w9",
+        "applicants": []
+      },
+      {
+        "id": 18,
+        "name": "E-commerce Strategies",
+        "description": "Develop effective e-commerce strategies for business success.",
+        "duration": "10 weeks",
+        "img": "https://rebrand.ly/i7hn4b6",
+        "applicants": []
+      },
+      {
+        "id": 19,
+        "name": "Mobile UX Design",
+        "description": "Design user-friendly and engaging mobile user experiences.",
+        "duration": "8 weeks",
+        "img": "https://rebrand.ly/8aagjlq",
+        "applicants": []
+      },
+      {
+        "id": 20,
+        "name": "Responsive Web Design",
+        "description": "Create responsive and mobile-friendly web designs.",
+        "duration": "10 weeks",
+        "img": "https://rebrand.ly/o03z5ws",
+        "applicants": []
+      }
+     
+    ]
+  
+  
