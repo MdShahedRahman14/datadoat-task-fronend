@@ -52,7 +52,7 @@ const Navbar = () => {
     </div>
   );
   return (
-    <div className="z-30">
+    <div className="z-50">
       <div>
         <div className="navbar rounded-b-xl bg-[#ffffff]   h-28">
           <div className="navbar-start ">
@@ -75,12 +75,12 @@ const Navbar = () => {
               </label>
               <ul
                 tabIndex={0}
-                className="menu menu-compact dropdown-content mt-3 p-2 shadow rounded-box flex bg-[#ffffff]  w-64"
+                className="menu menu-compact dropdown-content mt-3 p-2 shadow rounded-box flex bg-[#ffffff] z-50  w-64"
               >
                 {navItems}
               </ul>
             </div>
-            <Link className="" to="/">
+            <Link className="z-50" to="/">
               <img
                 className="w-10 rounded-md h-10 ml-3 mr-3 "
                 src="https://rb.gy/28n5ol"
@@ -92,7 +92,7 @@ const Navbar = () => {
             </Link>
           </div>
           <div className="navbar-center hidden lg:flex">
-            <ul className="menu menu-horizontal px-1">{navItems}</ul>
+            <ul className="menu menu-horizontal z-50 px-1">{navItems}</ul>
           </div>
         </div>
       </div>
